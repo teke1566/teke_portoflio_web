@@ -1,0 +1,20 @@
+<svg width="111" height="64" viewBox="0 0 111 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Path definitions remain unchanged -->
+    <text x="37%" y="50%" font-size="28" fill="url(#tekGradient)" text-anchor="middle" dominant-baseline="middle">TEK</text>
+    <text x="37%" y="80%" font-family="Arial" font-size="22" fill="url(#powerGradient)" text-anchor="middle" dominant-baseline="middle">POWER</text>
+    <!-- Gradient definitions -->
+    <defs>
+        <linearGradient id="tekGradient" x1="0" y1="0" x2="77.8461" y2="9.73773" gradientUnits="userSpaceOnUse">
+            <stop offset="0.183111" stop-color="#FF56F6"/>
+            <stop offset="0.432593" stop-color="#B936EE"/>
+            <stop offset="0.854443" stop-color="#3BACE2"/>
+            <stop offset="1" stop-color="#406AFF"/>
+        </linearGradient>
+        <linearGradient id="powerGradient" x1="0" y1="0" x2="77.8461" y2="9.73773" gradientUnits="userSpaceOnUse">
+            <stop offset="0.183111" stop-color="#FF0000"/>
+            <stop offset="0.432593" stop-color="#FF8C00"/>
+            <stop offset="0.854443" stop-color="#FFD700"/>
+            <stop offset="1" stop-color="#32CD32"/>
+        </linearGradient>
+    </defs>
+</svg>
