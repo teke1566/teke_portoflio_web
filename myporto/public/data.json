@@ -1,0 +1,405 @@
+{
+    "resumeUrl": "/BEYENE_Teketsel_Resume1.pdf",
+    "hero": {
+      "name": "Teketsel Beyene",
+      "roles": ["Java Developer", "BackEnd &", "FrontEnd"],
+      "tagline": "Experienced Java Developer | Spring Boot, AWS | Agile (SCRUM) | Available for Full-time W-2 Employment | Willing to Relocate"
+    },
+    "about": {
+      "title": "About me",
+      "description": "Experienced Java Developer with a proven track record of delivering robust software solutions and spearheading successful data pipeline migrations to the AWS Cloud. Equipped with extensive expertise in Java, Spring Boot, Microservices, REST API, and J2EE, complemented by adeptness in frontend development using React, JavaScript, HTML, and CSS. An Agile practitioner who excels in collaborative environments, driving efficiency and innovation through agile methodologies.",
+      "counters": { "years": 5, "projects": 6 }
+    },
+    "experience": [
+      {
+        "title": "Arba Minch University",
+        "company_name": "Computer Science",
+        "date": "January 2012 - June 2016",
+        "icon": "/static/logos/arba-minch.png",
+        "iconBg": "#0F2B44",
+        "points": []
+      },
+      {
+        "title": "Software Developer",
+        "company_name": "Information and Network Security Agency",
+        "date": "January 2016 - August 2021",
+        "icon": "/static/logos/insa.png",
+        "iconBg": "#112E4B",
+        "points": [
+          "Created an enterprise-level billing system utilizing Spring Boot and React, resulting in a 30% decrease in billing errors and a 25% increase in overall billing accuracy. Successfully deployed the application on AWS cloud services."
+        ]
+      },
+      {
+        "title": "Full Stack Java Developer",
+        "company_name": "Sharonat International",
+        "date": "November 2021 - January 2023",
+        "icon": "/static/logos/sharonat.png",
+        "iconBg": "#0F2B44",
+        "points": [
+          "Developed a comprehensive event management system as part of a collaborative team effort, utilizing various technologies across the entire SDLC.",
+          "Utilized Java, Spring Boot, JavaScript, React, and PostgreSQL to implement front-end and back-end functionalities."
+        ]
+      },
+      {
+        "title": "Maharishi International University",
+        "company_name": "Master of Computer Science",
+        "date": "October 2022 - Present",
+        "icon": "/static/logos/miu.png",
+        "iconBg": "#112E4B",
+        "points": []
+      },
+      {
+        "title": "Software Engineer",
+        "company_name": "Revature (United States)",
+        "date": "February 2024 - Present",
+        "icon": "/static/logos/revature.png",
+        "iconBg": "#0B2A45",
+        "points": [
+          "Built Spring Boot microservices for core payment workflows (fund transfers, bill payments, refunds) and exposed secure REST APIs.",
+          "Designed a real-time fraud detection module using Apache Kafka for event streaming and Resilience4j for fault tolerance.",
+          "Optimized PostgreSQL (financial records) and MongoDB (fraud logs), improving query performance by 25%.",
+          "Developed React dashboards for customers (payment tracking) and admins (fraud alerts, KPIs), integrated with Tableau for reporting.",
+          "Automated CI/CD pipelines with Jenkins, containerized services with Docker, and deployed on AWS EC2/RDS.",
+          "Implemented system monitoring and observability with Prometheus and the ELK Stack."
+        ]
+      }
+    ],
+    "skills": [
+      { "title": "HTML", "icon": "/static/icons/html.png", "style": "shadow-orange-500" },
+      { "title": "React", "icon": "/static/icons/react.png", "style": "shadow-indigo-700" },
+      { "title": "Java", "icon": "/static/icons/java.png", "style": "shadow-gray-500" },
+      { "title": "SpringBoot", "icon": "/static/icons/spring.png", "style": "shadow-green-500" },
+      { "title": "JavaScript", "icon": "/static/icons/javascript.png", "style": "shadow-yellow-500" },
+      { "title": "Kubernetes", "icon": "/static/icons/kubernetes.png", "style": "shadow-indigo-500" },
+      { "title": "Docker", "icon": "/static/icons/docker.png", "style": "shadow-indigo-400" },
+      { "title": "MongoDB", "icon": "/static/icons/mongodb.png", "style": "shadow-green-500" },
+      { "title": "AWS", "icon": "/static/icons/aws.png", "style": "shadow-orange-400" }
+
+    ],
+   "services": [
+  {
+    "name": "Full Stack Java Development",
+    "description": "6+ years of professional experience building scalable full-stack applications using Java, Spring Boot, React, Angular, and REST APIs.",
+    "additionalInfo": [
+      "Created enterprise billing and event management systems with Spring Boot, React, PostgreSQL, and MongoDB.",
+      "Integrated third-party APIs to expand application capabilities.",
+      "Improved testing efficiency by 30% with JUnit, Mockito, and TDD practices."
+    ]
+  },
+  {
+    "name": "Microservices & API Engineering",
+    "description": "Designed and implemented resilient, domain-driven microservices architectures with Spring Cloud, Kafka, and REST APIs.",
+    "additionalInfo": [
+      "Developed payment workflows (fund transfers, refunds, bill payments) for fintech platforms.",
+      "Implemented OAuth 2.0, Spring Security, and JWT authentication for secure APIs.",
+      "Applied Netflix Hystrix & Resilience4j to ensure system reliability under heavy load."
+    ]
+  },
+  {
+    "name": "Cloud & DevOps Engineering",
+    "description": "Hands-on expertise in AWS, Docker, Kubernetes, and CI/CD automation for scalable deployments.",
+    "additionalInfo": [
+      "Automated CI/CD pipelines with Jenkins, GitLab, and Docker, reducing deployment time by 40%.",
+      "Deployed production workloads to AWS (EC2, RDS, S3, Lambda, EKS).",
+      "Implemented monitoring and observability with Prometheus, ELK Stack, and Grafana."
+    ]
+  },
+  {
+    "name": "Data & Messaging Systems",
+    "description": "Optimized large-scale data processing and streaming pipelines for enterprise applications.",
+    "additionalInfo": [
+      "Built Spring Batch jobs for high-volume API requests and concurrent data processing.",
+      "Leveraged Apache Kafka, RabbitMQ, and ActiveMQ for real-time messaging and analytics.",
+      "Improved database performance with PostgreSQL, MySQL, and MongoDB optimizations."
+    ]
+  },
+  {
+    "name": "IT Risk Management & Security",
+    "description": "Applied modern security practices to safeguard sensitive data and ensure compliance.",
+    "additionalInfo": [
+      "Implemented OAuth 2.0 authentication and role-based access control (RBAC).",
+      "Applied rate limiting and circuit breakers for API protection.",
+      "Designed auditing and logging solutions to meet IT governance standards."
+    ]
+  }
+],
+    "projects": [
+  
+  {
+    "slug": "ecommerce-platform",
+    "title": "E-Commerce",
+    "subtitle": "Java Developer",
+    "image": "/static/projects/ecommerce.png",
+    "description": "A scalable e-commerce platform with Spring Boot microservices and a React frontend. Includes product catalog, cart/checkout, order tracking, and JWT auth.",
+    "tags": ["Spring Boot", "React", "PostgreSQL", "JWT", "Docker", "AWS"],
+    "problem": "Legacy monolith caused slow releases and frequent checkout failures at peak traffic.",
+    "solution": [
+      "Decomposed into domain microservices (catalog, cart, orders, payments)",
+      "Implemented REST APIs with Spring Boot, secured with JWT",
+      "Containerized with Docker; CI/CD via Jenkins to AWS",
+      "PostgreSQL for transactional data; S3 for media assets"
+    ],
+    "results": [
+      { "label": "Checkout latency", "value": "-38%" },
+      { "label": "Release cadence",  "value": "2 → 8 / month" },
+      { "label": "Cart conversion",  "value": "+12%" }
+    ],
+    "gallery": ["/static/projects/ecommerce.png"],
+   
+    "link": "",
+    "repo": ""
+  },
+  {
+    "slug": "city-billing-system",
+    "title": "Billing System for City",
+    "subtitle": "Java Developer | React",
+    "image": "/static/projects/billing.jpg",
+    "description": "Municipal billing system handling invoices, payments, adjustments, and reporting with role-based access and audit logs.",
+    "tags": ["Java", "Spring Boot", "React", "RDS/PostgreSQL", "CI/CD", "AWS"],
+    "problem": "Manual billing and spreadsheet-based reconciliations led to errors and delayed collections.",
+    "solution": [
+      "Built billing, payments, and reconciliation services with Spring Boot",
+      "React admin UI with RBAC and activity auditing",
+      "Automated CI/CD pipeline and blue/green deploys on AWS",
+      "Reporting exports (CSV/PDF) for finance teams"
+    ],
+    "results": [
+      { "label": "Billing errors",   "value": "-30%" },
+      { "label": "Collection delay", "value": "-25%" },
+      { "label": "Ops time saved",   "value": "12h/week" }
+    ],
+    "gallery": ["/static/projects/billing.jpg"],
+    "link": "",
+    "repo": ""
+  },
+  {
+    "slug": "event-management",
+    "title": "Event Management",
+    "subtitle": "Java Full-Stack Developer",
+    "image": "/static/projects/event.jpg",
+    "description": "End-to-end application for creating events, registrations, ticketing, announcements, and email notifications.",
+    "tags": ["Java", "Spring Boot", "React", "MongoDB", "Kafka", "S3"],
+    "problem": "Fragmented tools for registration and communication created poor attendee experience.",
+    "solution": [
+      "Unified event creation, ticketing, and attendee management",
+      "Async notifications with Kafka and templated emails",
+      "Stored assets on S3; used MongoDB for flexible event data",
+      "Built responsive React UI for organizers and attendees"
+    ],
+    "results": [
+      { "label": "Registration time", "value": "-45%" },
+      { "label": "Email engagement",  "value": "+18%" },
+      { "label": "Support tickets",   "value": "-22%" }
+    ],
+    "gallery": ["/static/projects/event.jpg"],
+    "link": "",
+    "repo": ""
+  },
+  {
+    "slug": "cyber-threat-intel",
+    "title": "Cyber Threat Intelligence Platform",
+    "subtitle": "Software Developer",
+    "image": "/static/projects/cyber.jpg",
+    "description": "A platform that collects, analyzes, and visualizes cybersecurity threat intelligence data to proactively defend against attacks.",
+    "tags": ["Java", "Spring Boot", "Angular", "MongoDB", "Kafka", "Elasticsearch", "AWS"],
+    "problem": "Security teams relied on fragmented logs and manual analysis, making it difficult to detect and respond to threats in real-time.",
+    "solution": [
+      "Developed ingestion pipelines with Kafka to process millions of events daily",
+      "Built Spring Boot microservices for parsing, enrichment, and threat classification",
+      "Stored threat data in MongoDB and Elasticsearch for fast querying and visualization",
+      "Implemented Angular dashboards for SOC analysts with real-time alerting",
+      "Deployed on AWS with Docker and Kubernetes for scalability and resilience"
+    ],
+    "results": [
+      { "label": "Threat detection speed", "value": "+60%" },
+      { "label": "False positives reduced", "value": "-35%" },
+      { "label": "MTTR (Mean Time to Response)", "value": "-40%" }
+    ],
+    "gallery": ["/static/projects/cyber.jpg"],
+    "link": "",
+    "repo": ""
+  }
+  
+
+
+],
+   "testimonials": [],
+"endorsements": [
+  {
+    "name": "Abebe Dereje",
+    "role": "Engineering Manager, INSA",
+    "avatar": "/static/avatars/abebe.png",
+    "quote": "Teketsel shipped reliably and improved our delivery speed without sacrificing quality.",
+    "url": ""
+  },
+  {
+    "name": "Henok Haftom",
+    "role": "Senior Developer,INSA",
+    "avatar": "/static/avatars/henok.png",
+    "quote": "Strong Spring Boot + AWS skills. He drove a clean microservices migration.",
+    "url": ""
+  }
+],
+
+    "socialLinks": [
+      { "label": "LinkedIn", "href": "https://www.linkedin.com/in/teketselbeyene/" },
+      { "label": "GitHub", "href": "https://github.com/teke1566" },
+      { "label": "Mail", "href": "mailto:teketselbeyene@gmail.com" },
+      { "label": "WhatsApp", "href": "https://wa.me/16412339167" },
+      { "label": "Resume", "href": "/BEYENE_Teketsel_Resume1.pdf", "download": true }
+    ],
+      "availability": {
+        "status": "Open to W-2 roles — Software Engineer java / Spring Boot",
+        "ctaLabel": "Book a 15-min intro",
+        "calendly": "https://calendly.com/teketselbeyene/interview"
+      },
+    "techMatrix": [
+  {
+    "category": "Backend",
+    "items": [
+      { "name": "Java", "years": 6, "level": 90 },
+      { "name": "Spring Boot", "years": 5, "level": 85 },
+      { "name": "Spring Cloud", "years": 4, "level": 80 },
+      { "name": "Spring Security", "years": 4, "level": 75 },
+      { "name": "Spring Batch", "years": 3, "level": 70 },
+      { "name": "Hibernate / JPA", "years": 5, "level": 85 },
+      { "name": "Node.js", "years": 2, "level": 60 },
+      { "name": "Express.js", "years": 2, "level": 60 }
+    ]
+  },
+  {
+    "category": "Frontend",
+    "items": [
+      { "name": "React", "years": 4, "level": 80 },
+      { "name": "Angular", "years": 3, "level": 70 },
+      { "name": "Redux", "years": 3, "level": 70 },
+      { "name": "JavaScript", "years": 5, "level": 80 },
+      { "name": "HTML/CSS", "years": 6, "level": 85 }
+    ]
+  },
+  {
+    "category": "Cloud & DevOps",
+    "items": [
+      { "name": "AWS", "years": 3, "level": 75 },
+      { "name": "Docker", "years": 4, "level": 80 },
+      { "name": "Kubernetes", "years": 3, "level": 70 },
+      { "name": "Jenkins", "years": 5, "level": 85 },
+      { "name": "Terraform", "years": 2, "level": 60 },
+      { "name": "Prometheus", "years": 3, "level": 70 },
+      { "name": "Grafana", "years": 2, "level": 65 },
+      { "name": "ELK Stack", "years": 3, "level": 70 },
+      { "name": "Git/GitHub", "years": 6, "level": 90 },
+      { "name": "Control-M", "years": 2, "level": 60 }
+    ]
+  },
+  {
+    "category": "Databases",
+    "items": [
+      { "name": "PostgreSQL", "years": 4, "level": 80 },
+      { "name": "MongoDB", "years": 4, "level": 75 },
+      { "name": "MySQL", "years": 5, "level": 80 },
+      { "name": "Oracle", "years": 3, "level": 70 },
+      { "name": "Cassandra", "years": 2, "level": 60 },
+      { "name": "DB2", "years": 2, "level": 60 },
+      { "name": "Redis", "years": 2, "level": 65 }
+    ]
+  },
+  {
+    "category": "Messaging & Streaming",
+    "items": [
+      { "name": "Kafka", "years": 3, "level": 70 },
+      { "name": "RabbitMQ", "years": 3, "level": 65 },
+      { "name": "ActiveMQ", "years": 2, "level": 60 },
+      { "name": "Zookeeper", "years": 2, "level": 60 },
+      { "name": "Resilience4j", "years": 2, "level": 65 },
+      { "name": "Netflix Hystrix", "years": 3, "level": 70 }
+    ]
+  },
+  {
+    "category": "Testing & Tools",
+    "items": [
+      { "name": "JUnit", "years": 5, "level": 85 },
+      { "name": "Mockito", "years": 4, "level": 80 },
+      { "name": "Maven", "years": 5, "level": 85 },
+      { "name": "Gradle", "years": 2, "level": 65 },
+      { "name": "Postman", "years": 5, "level": 85 },
+      { "name": "JMeter", "years": 3, "level": 70 },
+      { "name": "Tableau", "years": 2, "level": 60 },
+      { "name": "Apache Spark", "years": 2, "level": 60 },
+      { "name": "StarUML", "years": 2, "level": 55 },
+      { "name": "Consul", "years": 2, "level": 55 }
+    ]
+  },
+  {
+    "category": "Architecture & Patterns",
+    "items": [
+      { "name": "Microservices", "years": 5, "level": 85 },
+      { "name": "MVC", "years": 6, "level": 90 },
+      { "name": "Singleton", "years": 5, "level": 85 },
+      { "name": "Observer", "years": 4, "level": 75 },
+      { "name": "Repository", "years": 5, "level": 80 },
+      { "name": "Circuit Breaker", "years": 3, "level": 70 },
+      { "name": "Saga Pattern", "years": 2, "level": 65 },
+      { "name": "API Gateway", "years": 3, "level": 70 }
+    ]
+  }
+],
+      "downloads": [
+        { "label": "ATS Resume (PDF)", "href": "/static/downloads/teketsel_ats_resume.pdf" },
+        { "label": "1-page Resume",     "href": "/static/downloads/teketsel_resume_1page.pdf" },
+        { "label": "Portfolio (PDF)",   "href": "/static/downloads/teketsel_portfolio.pdf" },
+        { "label": "References",        "href": "/static/downloads/teketsel_references.pdf" }
+      ],
+        "certifications": [
+          {
+            "name": "AWS Certified Developer – Associate",
+            "issuer": "Amazon Web Services",
+            "year": 2025,
+            "logo": "/static/certs/aws-dev-assoc.png",
+            "url": "https://www.credly.com/badges/your-aws-badge",
+            "active": false
+          },
+          {
+            "name": "Oracle Certified Professional, Java SE",
+            "issuer": "Oracle",
+            "year": 2024,
+            "logo": "/static/certs/oracle-java.png",
+            "url": "https://www.your-verification-link",
+            "active": false
+          },
+          {
+            "name": "Scrum Master",
+            "issuer": "Scrum Alliance",
+            "year": 2023,
+            "logo": "/static/certs/scrum.png",
+            "url": "https://www.scrumalliance.org/certifications/verify",
+            "active": false
+          }
+        ],
+      
+        "socialProof": {
+          "metrics": [
+            {
+              "label": "Projects shipped",
+              "value": 12,
+              "history": [4, 6, 7, 9, 12]
+            },
+            {
+              "label": "Prod incidents resolved",
+              "value": 47,
+              "history": [10, 18, 27, 38, 47]
+            },
+            {
+              "label": "Test coverage",
+              "value": 82,
+              "unit": "%",
+              "history": [60, 68, 74, 79, 82]
+            }
+          ]
+        }
+      
+      
+    
+    
+  }
+  
